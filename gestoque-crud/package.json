@@ -13,7 +13,7 @@
         "crud",
         "typescript"
     ],
-    "author": "Seu Nome",
+    "author": "Italo",
     "license": "MIT",
     "devDependencies": {
         "@types/node": "^20.4.2",
